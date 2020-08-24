@@ -1,5 +1,12 @@
 # PyTorch-YOLOv3
+
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
+
+This repository was modified by wowd from the [original one](https://github.com/eriklindernoren/PyTorch-YOLOv3), to specify input/output dirs.<br />
+Please also check my [Colab](https://colab.research.google.com/drive/1Rcs3m5g0IRqHMmfP6sGGgm0WxTmvyRIR?usp=sharing)
+
+Original README below.
+
 
 ## Installation
 ##### Clone and install requirements
